@@ -1,0 +1,5 @@
+.vscode
+*.pyc
+*.conf
+__pycache__
+*~
